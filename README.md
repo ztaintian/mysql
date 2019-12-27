@@ -1,4 +1,8 @@
   mysql 学习（版本8.0.18）
+
+    mysql可视化工具
+
+      推荐mysql workbench 
     
     1、安装（参考https://www.runoob.com/mysql/mysql-install.html）
       
